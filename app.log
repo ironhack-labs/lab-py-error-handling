@@ -1,0 +1,72 @@
+ERROR:root:Invalid input
+Traceback (most recent call last):
+  File "/var/folders/m2/12hw6p5106x98ycbwzpq3hsh0000gn/T/ipykernel_25422/2152446630.py", line 7, in <module>
+    num = int(user_input)
+          ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'q'
+ERROR:root:Invalid input
+Traceback (most recent call last):
+  File "/var/folders/m2/12hw6p5106x98ycbwzpq3hsh0000gn/T/ipykernel_25422/2152446630.py", line 7, in <module>
+    num = int(user_input)
+          ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: 'LuisNumber'
+ERROR:root:Invalid input
+Traceback (most recent call last):
+  File "/var/folders/m2/12hw6p5106x98ycbwzpq3hsh0000gn/T/ipykernel_25422/2152446630.py", line 7, in <module>
+    num = int(user_input)
+          ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+ERROR:root:Invalid input
+Traceback (most recent call last):
+  File "/var/folders/m2/12hw6p5106x98ycbwzpq3hsh0000gn/T/ipykernel_25422/2152446630.py", line 7, in <module>
+    num = int(user_input)
+          ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+ERROR:root:Invalid input
+Traceback (most recent call last):
+  File "/var/folders/m2/12hw6p5106x98ycbwzpq3hsh0000gn/T/ipykernel_25422/2152446630.py", line 7, in <module>
+    num = int(user_input)
+          ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+ERROR:root:Invalid input
+Traceback (most recent call last):
+  File "/var/folders/m2/12hw6p5106x98ycbwzpq3hsh0000gn/T/ipykernel_25422/2152446630.py", line 7, in <module>
+    num = int(user_input)
+          ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+ERROR:root:Invalid input
+Traceback (most recent call last):
+  File "/var/folders/m2/12hw6p5106x98ycbwzpq3hsh0000gn/T/ipykernel_25422/2152446630.py", line 7, in <module>
+    num = int(user_input)
+          ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+ERROR:root:Invalid input
+Traceback (most recent call last):
+  File "/var/folders/m2/12hw6p5106x98ycbwzpq3hsh0000gn/T/ipykernel_25422/2152446630.py", line 7, in <module>
+    num = int(user_input)
+          ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+ERROR:root:Invalid input
+Traceback (most recent call last):
+  File "/var/folders/m2/12hw6p5106x98ycbwzpq3hsh0000gn/T/ipykernel_25422/2152446630.py", line 7, in <module>
+    num = int(user_input)
+          ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+ERROR:root:Invalid input
+Traceback (most recent call last):
+  File "/var/folders/m2/12hw6p5106x98ycbwzpq3hsh0000gn/T/ipykernel_25422/2152446630.py", line 7, in <module>
+    num = int(user_input)
+          ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+ERROR:root:Invalid input
+Traceback (most recent call last):
+  File "/var/folders/m2/12hw6p5106x98ycbwzpq3hsh0000gn/T/ipykernel_25422/2152446630.py", line 7, in <module>
+    num = int(user_input)
+          ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
+ERROR:root:Invalid input
+Traceback (most recent call last):
+  File "/var/folders/m2/12hw6p5106x98ycbwzpq3hsh0000gn/T/ipykernel_25422/2152446630.py", line 7, in <module>
+    num = int(user_input)
+          ^^^^^^^^^^^^^^^
+ValueError: invalid literal for int() with base 10: ''
