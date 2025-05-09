@@ -1,0 +1,2 @@
+2025-05-09 18:47:36,392 - ERROR - Division by zero is not allowed.
+2025-05-09 18:48:47,870 - ERROR - Division by zero is not allowed.
