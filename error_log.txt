@@ -1,0 +1,6 @@
+ValueError: Invalid input 'p' - could not convert string to float: 'p'
+ValueError: Invalid input 'i' - could not convert string to float: 'i'
+ValueError: Invalid input 'e' - could not convert string to float: 'e'
+Attempt 1: Invalid input 'c' - could not convert string to float: 'c'
+Attempt 2: Invalid input 'o' - could not convert string to float: 'o'
+Attempt 3: Invalid input 'r' - could not convert string to float: 'r'
