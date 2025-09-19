@@ -21,3 +21,6 @@ Read the instructions for each cell and provide your answers. Make sure to test 
 <br>
 
 **Good luck!**
+
+### Exercise 9: Handle UnicodeDecodeError
+Character to raise an error -> Ñ -> Boom! (UnicodeDecodeError)
