@@ -1,0 +1,12 @@
+2026-10-04 09:47:03,767 | ERROR | division failed: 1 / 0
+Traceback (most recent call last):
+  File "C:\Users\Windows\AppData\Local\Temp\ipykernel_14948\1278968736.py", line 17, in divide_and_log
+    return a / b
+           ~~^~~
+ZeroDivisionError: division by zero
+2026-10-04 09:47:03,768 | ERROR | bad types: 'x' / 2
+Traceback (most recent call last):
+  File "C:\Users\Windows\AppData\Local\Temp\ipykernel_14948\1278968736.py", line 17, in divide_and_log
+    return a / b
+           ~~^~~
+TypeError: unsupported operand type(s) for /: 'str' and 'int'
